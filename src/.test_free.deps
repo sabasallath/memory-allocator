@@ -1,1 +1,0 @@
-.test_free.deps test_free.o: test_free.c mem.h test_utils.h

@@ -1,1 +1,0 @@
-.test_utils.deps test_utils.o: test_utils.c test_utils.h common.h mem.h
